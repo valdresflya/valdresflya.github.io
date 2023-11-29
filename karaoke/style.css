@@ -12,8 +12,8 @@ body {
 
 #karaoke {
     display: block;
-    margin: 0 auto;
-    width: 80%;
+    margin: 20px auto;
+    width: 50%;
 }
 
 .myInput {
@@ -21,13 +21,14 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     font-size: 3em;
-    width: 80%;
+    width: 60%;
+    border-radius: 20px;
+    border: none;
     text-align: center;
     padding: 12px 20px 12px 40px;
-    border: 1px solid #ddd;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
   }
 
 ::placeholder {
@@ -40,8 +41,7 @@ display: block;
 margin: 0 auto;
 font-size: 3em;
 border-collapse: collapse;
-width: 80%;
-min-width: 80%;
+max-width: 100%
 border: 1px solid #ddd;
 }
 
