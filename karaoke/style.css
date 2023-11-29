@@ -3,6 +3,7 @@
   }
 
 body {
+    margin: 0px;  
     background-image: url('background.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -42,7 +43,6 @@ margin: 0 auto;
 font-size: 3em;
 border-collapse: collapse;
 max-width: 100%
-border: 1px solid #ddd;
 }
 
 #myTable th, #myTable td {
