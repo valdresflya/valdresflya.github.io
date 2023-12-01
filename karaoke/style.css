@@ -61,9 +61,9 @@ padding: 12px;
 
 #myTable tr {
 border-bottom: 1px solid #ddd;
-background-color: #008bbe;
-color: white;
+background-color: #88cae4;
+color: black;
 
 }
 
-#myTable tr:nth-child(even){background-color: #1D4B66;}
+#myTable tr:nth-child(even){background-color: #ffffff;}
