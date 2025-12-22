@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_CLIENT_ID":"884c096889f84b94b634cfcab7103eab","PUBLIC_CALLBACK_URI":"https://valdresflya.github.io/hipster/callback"}
